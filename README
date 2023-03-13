@@ -1,1 +1,2 @@
 A powershell script to pull the AlienVault indicators and write them in a format suitable for the firewall and for Microsoft Defender.
+Originally based on the script: https://github.com/forgottentq/powershell/blob/master/GetOTX-Data.ps1
