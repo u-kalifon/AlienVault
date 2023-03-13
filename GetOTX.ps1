@@ -1,6 +1,6 @@
 # Get the new indicators from AlienVault and add to our indicators files
 
-$otxkey = "1c60b9eb0c5f39a4edbe46d90009b38aacaf4830512e9e37e6598aa96a1e03ca"
+$otxkey = "YOUR_KEY_HERE"
 
 [String[]]$Hostnames = @()
 [String[]]$IPV4s = @()
