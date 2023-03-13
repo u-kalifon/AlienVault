@@ -1,0 +1,1 @@
+A powershell script to pull the AlienVault indicators and write them in a format suitable for the firewall and for Microsoft Defender.
