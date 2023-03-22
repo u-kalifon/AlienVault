@@ -1,3 +1,5 @@
+webservice-srv.online
+webservice-srv1.online
 xpopup.com
 xpopup.pe.kr
 attiferstudio.com
